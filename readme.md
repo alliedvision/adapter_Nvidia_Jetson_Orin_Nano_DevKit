@@ -1,6 +1,7 @@
 # Allied Vision Adapter Board CSI-2 for Nvidia Jetson Orin Nano Development Kit
 
 ![orin_nano_apapter_board](/Images/orin_nano_adapter_board.png)
+
 This repository contains open hardware design files for an adapter board supporting the Allied Vision Alvium CSI-2 camera pinout to NVIDIA's Orin Nano Development Kit, created by Allied Vision.
 The board allows the user to interface with one Alvium MIPI CSI-2 compatible camera over a Flexible Flat Cable (FFC) connector.
 
